@@ -1,22 +1,20 @@
-# Week-One-Node
+
 
 ## Problem Description:
 
-You are to create a SPA (Single Page Application) using HTML, CSS and JavaScript. It shows all characters from a star wars API (https://swapi.dev/api/people). Read the documentation and implement as follows.
+Creation of a SPA (Single Page Application) using HTML, CSS and JavaScript. It shows all characters from a star wars API (https://swapi.dev/api/people). 
 
-### Process ?
+### Process
 
-1. Display an image for each of the characters. Preferrably a unique image for each but you could also choose to use a dummy image for all of them.
+1. Image display for each of the characters. 
 
-2. Make a HTTP request to the star wars API and use the result from the request to populate your frontend application
+2. HTTP request to the star wars API. The resulting details were used to populate the frontend application
 
-- Display a list with the names of each person from the API request.
-- On Clicking any name, display the details of that user on the screen, with name, gender, height only
+- List-display with the names of each person from the API request.
+- On Clicking any name, details of the character are displayed on the screen, with name, gender, and height.
 
-3. All implementations should be done using es6.
+3. Implementations were done using es6.
 
-4. Make your design pretty and responsive.
 
-5. When you are done, host your application on netlify (submit link should be added to your turned in field on Teams)
 
 
