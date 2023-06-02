@@ -6,11 +6,7 @@ html {
   box-sizing: border-box;
 }
 
-body {
-  display: flex;
-  justify-content: space-around;
-  align-items: center;
-}
+
 
 .content {
   display: flex;
@@ -19,8 +15,8 @@ body {
   align-items: center;
   height: 100%;
   position: absolute;
-  left: 60%;
-  top: 0px;
+  left: 500px;
+  top: 50px;
   /* text-align: right;
   margin-right: auto; */
 }
@@ -85,9 +81,8 @@ ul {
 }
 
 .back-video {
-  position: absolute;
-  right: 0;
-  bottom: 0;
+  width: 100%;
+  height: 100%;
   z-index: -1;
 }
 
@@ -109,6 +104,8 @@ img {
   margin-left: -300px;
   justify-content: center;
   top: 0px;
+  left: 400px;
+  position: absolute;
   /* border-radius: 2rem; */
 }
 
